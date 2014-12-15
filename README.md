@@ -1,4 +1,4 @@
 matasano-crypto-challenges
 ==========================
 
-Repository containing the solutions of the Matasano Crypto Challenges : http://cryptopals.com/ .
+Repository containing my own solutions for the Matasano Crypto Challenges : http://cryptopals.com/ .
